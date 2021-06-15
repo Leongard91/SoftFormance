@@ -29,8 +29,8 @@ $ python manage.py runserver
 3. Further to the received link (`http://127.0.0.1:8000/accounts/login`).
 4. Enter Username and Password or choose Google > Your Google Account to become logged in.
 
-If success, You will be redirekted to profile page.
-![profile page]()
+If success, You will be redirected to profile page.
+![profile page](https://github.com/Leongard91/SoftFormance/blob/main/django_tasks/d_task3/login_task/screenshots/scr1.JPG)
 
 ##### How to logout?
 1. Further to admin page `http://127.0.0.1:8000/admin`
